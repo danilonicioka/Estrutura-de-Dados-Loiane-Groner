@@ -1,10 +1,10 @@
-## Estrutura de Dados Loiane Groner
+## Estrutura-de-Dados_Loiane-Groner
 
- Programas criados durante o curso de Estrutura de Dados do canal/site da **Loiane Groner**
+ Programas desenvolvidos durante o curso de Estrutura de Dados da Loiane Groner
  
  ---
  
-## Para mais informações sobre Loiane Groner, acesse:
+## Para mais informações sobre Loiane Groner, veja:
 
 [Perfil no GitHub](https://github.com/loiane)
 
